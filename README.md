@@ -12,3 +12,6 @@ Code Summary:
 4. Analyzing base compositions of the DNA Sequence
 5. Calculating GC Skewness
 6. Finally, retrieving and align the sequences of choice using pairwise sequence alignment
+
+![image](https://github.com/user-attachments/assets/a26adf61-bc9f-4e1d-b2ed-f8a8d1ce9177)
+
